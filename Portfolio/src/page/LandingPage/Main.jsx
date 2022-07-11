@@ -35,10 +35,10 @@ const Main = () => {
           <EmailWrapper>
             <EmailLine></EmailLine>
             <EmailComponent
-              href="mailto:ashutoshtr2427@gmail.com"
+              href="mailto:joshua.jamie222@gmail.com"
               target="_blank"
               rel="noreffer"
-              value="ashutoshtr2427@gmail.com"
+              value="joshua.jamie222@gmail.com"
             ></EmailComponent>
           </EmailWrapper>
         </MainWrapper>
