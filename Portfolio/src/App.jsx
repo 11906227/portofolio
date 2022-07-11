@@ -20,11 +20,11 @@ function App() {
     <React.Fragment>
       <Helmet>
         <html lang="en" />
-        <title> | Ashutosh Tripathi</title>
-        <meta name="description" content="Ashutosh Tripathi Portfolio" />
+        <title> | D Joshua</title>
+        <meta name="description" content="D Joshua Portfolio" />
         <meta
           name="keywords"
-          content="Ashutosh, Tripathi, Portfolio"
+          content="D, Joshua, Portfolio"
         />
       </Helmet>
       {loader === false ? (
